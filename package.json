@@ -1,0 +1,15 @@
+{
+    "name": "github",
+    "private": true,
+    "license": "MIT",
+    "author": "Anthony Yung <yhs88a@gmail.com>",
+    "contributors": [
+      "Anthony Yung <yhs88a@gmail.com>"
+    ],
+    "type": "module",
+    "packageManager": "pnpm@9.12.3",
+    "engines": {
+      "node": ">=20.9.0",
+      "pnpm": "^9.0.0"
+    }
+}
